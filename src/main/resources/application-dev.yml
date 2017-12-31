@@ -1,0 +1,8 @@
+server:
+  port: 8081
+  context-path: /iam
+
+hello:
+  name: hello_name
+  to: zhouyibin
+  times: 3
